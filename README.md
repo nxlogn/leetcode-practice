@@ -1,6 +1,6 @@
 # LeetCode Python 题解
 
-这个仓库包含了用 Python 实现的 LeetCode 题解。主要包括以下题目：
+这个仓库包含了用 Python 实现的 LeetCode 题解，主要用于学习算法和应付面试。主要包括以下题目：
 
 - 合并K个排序链表
 - 合并两个有序链表
