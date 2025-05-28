@@ -42,3 +42,6 @@ class Solution:
                     window[d] -= 1
                     
         return False
+
+
+# 添加一点点注释
